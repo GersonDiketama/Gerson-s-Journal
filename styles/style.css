@@ -59,6 +59,14 @@ main legend
     margin-top: 30px;
 }
 
+[type= "text"]
+{
+    background-color: rgb(255, 245, 245);
+    color: black;
+    font-weight: bold;
+    border-radius: 5px;
+}
+
 [type ="date"]
 {
     background-color: rgb(255, 245, 245);
