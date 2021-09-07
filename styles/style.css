@@ -19,10 +19,8 @@ header img
 
 main
 {
-    display: flex;
-    justify-content: center;
-    height: 600px;
-    
+    width: 800px;
+   
 }
 
 main fieldset
@@ -158,3 +156,24 @@ footer h4,a
 {
     padding: 20px;
 }
+
+#entryLog
+{
+    display: flex;
+    position: absolute;
+    float: right;
+    bottom: 26%;
+    left: 50%;
+    z-index: 1;
+  
+    
+}
+
+.journalEntry
+{
+    border: 2px solid black;
+    margin-bottom: 10px;
+    width: 300px;
+   
+}
+
