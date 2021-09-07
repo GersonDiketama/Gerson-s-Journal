@@ -27,4 +27,4 @@ export const postEntries = (postdata) =>
     })
     .then(response => response.json)
     
-}
+}  
