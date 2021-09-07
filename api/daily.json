@@ -1,0 +1,36 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Gerson"
+    }
+  ],
+  "journalEntries": [
+    {
+      "id": 1,
+      "date": "09/07/2021",
+      "journalEntry": "varchart",
+      "concepts": "HTML & CSS",
+      "userId": 1,
+      "timestamp": "timestamp"
+    },
+    {
+      "date": "2021-09-07T06:38:36.669Z",
+      "concepts": "JavaScript",
+      "journalEntry": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris viverra, tellus quis consectetur semper, ex nisi malesuada lacus, ut dignissim augue massa ut dui. Pellentesque interdum magna diam, sit amet malesuada ipsum imperdiet at. Mauris eu diam ultrices, tempus orci malesuada, lobortis orci. Nulla vel venenatis sem, at bibendum erat. Suspendisse fermentum sagittis elit non tincidunt. Pellentesque at feugiat mi. Etiam scelerisque diam mattis elit cursus sagittis.",
+      "id": 2
+    },
+    {
+      "date": "2021-09-07T21:28:30.356Z",
+      "concepts": "Big moooddddd",
+      "journalEntry": "Was A GREAT LEARNING DAY",
+      "id": 3
+    },
+    {
+      "date": "2021-09-07T21:31:43.825Z",
+      "concepts": "RANDOM USER",
+      "journalEntry": "WAS A GREAT PROJECT",
+      "id": 4
+    }
+  ]
+}
